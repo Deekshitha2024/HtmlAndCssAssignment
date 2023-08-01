@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+     width: 100%;
+    height: 100%;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    height: 500px;
+    width: 1000px;
+    border: 1px solid black;
+    background-color: lightblue;
+     
+}
+.box1{
+
+    height: 250px;
+    width:300px;
+    border: 1px solid black;
+    background-color: lightgreen;
+    
+}
+.box2{
+   
+    height: 250px;
+    width:300px;
+    border: 1px solid black;
+    background-color: lightpink;
+}   
+.box3{
+    height: 250px;
+    width:300px;
+    border: 1px solid black;
+    background-color: lightseagreen;
+  
+}
+
