@@ -1,0 +1,25 @@
+head,body{
+   
+    background-color: lightblue;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+.div1{
+      height:650px;
+      width:800px;
+      background-color: lightseagreen;
+      border: 1px solid black;
+      margin-top: 70px;
+      
+}
+.i1{
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 1px solid black; 
+    transition:transform 0.9s ease-in-out ;
+}
+img:hover{
+    box-shadow:10px 10px 20px yellow;
+    transform: scale(1.2);
+}
